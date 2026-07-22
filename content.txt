@@ -1,0 +1,15 @@
+class and object with the help of examples.
+class has attributes
+class has functions/methods 
+    1. Attributes called itself.
+    2. Functions inside class are called methods and are called manually.
+Why python is called Object Oriented Programming language?
+    Ans. Everything in python is object (created in class). Print type and 
+    see the output. 
+Advantages of OOPS concepts: 
+    1. You can create your own data type. 
+    2. Code reuseability
+    3. Debugging
+    4. Easy to colab
+
+
