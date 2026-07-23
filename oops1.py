@@ -3,11 +3,12 @@
 class employee:
     # special function/method 04 dunder method - constructor
     def __init__(self):
-        print("Attributes are initiated automatically when object is created")
+        #print(id(self))
+        #print("Attributes are initiated automatically when object is created")
         self.id = 123
         self.designation = "SDE"
         self.salary = 50000
-        print("Attributes/Data have been initiated")
+        #print("Attributes/Data have been initiated")
 
     # creating a function (function in class is called a method)
     def travel(self, destination):
@@ -16,9 +17,12 @@ class employee:
 
 # creating anobject/instance of employee
 sam = employee()
-
+sam.name = "Yousaf"
+print(sam.name)
+#print(id(sam))
+#babar = employee()
 #print(sam.salary)
-
+#print(id(babar))
 # calling a method
-sam.travel("Japan")
-print(type(sam))
+#sam.travel("Japan")
+#print(type(sam))

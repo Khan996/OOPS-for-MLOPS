@@ -11,5 +11,16 @@ Advantages of OOPS concepts:
     2. Code reuseability
     3. Debugging
     4. Easy to colab
-
+End to End project (chatbook project)
+    1. Dunder Method or Magic Method
+    2. Function vs Method
+    3. Self
+    4. You can create attribut outside class as well
+    
+    
+    1. Encapsulation
+    2. Getter and Setter
+    3. Static Method
+    4. Inheritance
+   
 
