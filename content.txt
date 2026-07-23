@@ -21,6 +21,20 @@ End to End project (chatbook project)
     1. Encapsulation
     2. Getter and Setter
     3. Static Method
-    4. Inheritance
-   
+
+Inheritance
+    1. Code example
+    2. Why inheritance is needed? (code useability, parent has no access to child class)
+    3. What gets inherited? - Constructors, non private attributes, non private methods 
+       (Encapsulation in parent class is not accessible in child class)
+    4. Constructor overloading and method overloading 
+    5. Super keyword(reference: inherit_2): can be used only inside a child class to get access
+       to parental concstructor and its corresponding methods. 
+       Note: Super keyword cannot call attributes
+    6. Types of inheritance: 
+        a: Single inheritance
+        b: Multileve
+        c: Hierarchichal
+        d: Multi (dimaond problem)
+        e: Hybrid
 
